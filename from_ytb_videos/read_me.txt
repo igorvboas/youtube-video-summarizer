@@ -1,0 +1,1 @@
+This folder is going to save all the audios, transcriptions and sumarizations of your youtube videos
